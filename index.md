@@ -9,6 +9,7 @@
 <!-- * [Detailed schedule](resources) -->
 <!-- * [Graded assignments](hw) -->
 <!-- * [Readings](readings.md) -->
+* Textbook: [Cooperative Software Development](https://faculty.washington.edu/ajko/books/cooperative-software-development/) by [Amy J. Ko](https://faculty.washington.edu/ajko/)
 * [Moodle](https://lms.dickinson.edu/course/view.php?id=53910)
 <!-- * [WiD repos](wid-repos.md) -->
 * [Acknowledgment](acknowledgment.md)
@@ -18,4 +19,4 @@
 
 
 ----
-Last modified: Tue Aug 15 11:54:55 UTC 2023 by jmac.
+Last modified: Tue Aug 15 14:08:34 UTC 2023 by jmac.

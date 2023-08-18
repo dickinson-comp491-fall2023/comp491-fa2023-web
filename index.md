@@ -4,10 +4,10 @@
 <!-- [high-resolution version](images/sensem-teaparty-2023.jpg) -->
 
 
-<!-- * [Syllabus](syllabus-1-23-2023.docx) -->
-<!-- * [Overview Schedule](schedule-4-10-2023.xlsx)  <\!-- &nbsp;&nbsp;&nbsp;<font color="green">UPDATED on 4/10/2023</font> -\-> -->
+* [Syllabus](syllabus-8-17-2023.docx)
+* [Overview Schedule](schedule-8-17-2023.xlsx)  <!-- &nbsp;&nbsp;&nbsp;<font color="green">UPDATED on 4/10/2023</font> -->
 <!-- * [Detailed schedule](resources) -->
-<!-- * [Graded assignments](hw) -->
+* [Graded assignments](hw)
 <!-- * [Readings](readings.md) -->
 * Textbook: [Cooperative Software Development](https://faculty.washington.edu/ajko/books/cooperative-software-development/) by [Amy J. Ko](https://faculty.washington.edu/ajko/)
 * [Moodle](https://lms.dickinson.edu/course/view.php?id=53910)
@@ -20,4 +20,4 @@
 
 
 ----
-Last modified: Thu Aug 17 21:21:31 UTC 2023 by jmac.
+Last modified: Fri Aug 18 01:49:05 UTC 2023 by jmac.

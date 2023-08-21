@@ -43,10 +43,13 @@ what you are planning to do in the next 30 minutes.
 
 [under construction]
 
+* [Assignments NQP1-7: Discussion notes, questions, and participation](NQP.docx)
 * [Assignment HW1: Slack, wiki, Git](HW1-slack-wiki-git.docx)
-<!-- * [Assignments TR1-4 and IR1-4: Team and individual 5-15 reports](TR-IR.docx) -->
+* [Assignment HW2: Project exploration](HW2-project-exploration.docx)
+* [Assignment HW3: Project reviews](HW3-project-reviews.docx)
+* [Assignment HW4: Project ranking](HW4-project-ranking.docx)
+* [Assignments TR1-2 and IR1-2: Team and individual 5-15 reports](TR-IR.docx)
 <!-- * [Assignment CP: Checkpoint presentation](CP.docx) -->
-* [Assignments NQP1-7: Discussion Notes, Questions, and Participation](NQP.docx)
 <!-- * [Assignments PP1, PP2, PP3: Poster presentation](PP.docx) -->
 <!-- * [Assignment RBP: Reflective blog post](RBP.docx) -->
 <!-- * [Assignment FP: Final Presentation](FP.docx) -->

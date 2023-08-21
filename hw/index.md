@@ -48,6 +48,7 @@ what you are planning to do in the next 30 minutes.
 * [Assignment HW2: Project exploration](HW2-project-exploration.docx)
 * [Assignment HW3: Project reviews](HW3-project-reviews.docx)
 * [Assignment HW4: Project ranking](HW4-project-ranking.docx)
+* [Assignment P1: Tech spike completion and presentation](P1-tech-spike-presentation.docx)
 * [Assignments TR1-2 and IR1-2: Team and individual 5-15 reports](TR-IR.docx)
 <!-- * [Assignment CP: Checkpoint presentation](CP.docx) -->
 <!-- * [Assignments PP1, PP2, PP3: Poster presentation](PP.docx) -->

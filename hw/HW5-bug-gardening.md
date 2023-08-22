@@ -5,6 +5,14 @@ hours: roughly two hours per bug, per student investigating. Most of the
 work can be done as a team, in pairs, or individually. Log your
 activity on the Slack live log.
 
+Students pursuing a research or honors project do not attempt this
+assignment. Instead, please submit a 5-15 report to the instructor,
+via email, describing your research work during the time period of
+this assignment. The expected workload is the same for all students,
+so this should represent about six hours of work on your research
+project.  For details about the 5-15 report, see the separate document
+describing TR and IR assignments.
+
 ## Introduction
 
 **Bug gardening** is a name often given to the task of maintaining the issue tracker in a project. This name reflects the fact that without careful attention, issue trackers tend to become disorganized - like an overgrown garden. They will accumulate tickets that are unlabeled, redundant/duplicates, inaccurate, or describe bugs that no longer exist in the current version of the software. Bug gardening thus includes actions such as assigning tags and/or priorities to tickets, confirming the existence of reported bugs, requesting additional information on submitted tickets, adding useful information to existing tickets, eliminating duplicate tickets, connecting potentially related tickets, closing completed or out of date tickets, etc. While some of these activities are done by the maintainers (e.g. prioritizing, deleting or labeling tickets) many others can be done by the community.

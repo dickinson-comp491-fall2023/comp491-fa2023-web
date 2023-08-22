@@ -48,10 +48,11 @@ what you are planning to do in the next 30 minutes.
 * [Assignment HW2: Project exploration](HW2-project-exploration.docx)
 * [Assignment HW3: Project reviews](HW3-project-reviews.docx)
 * [Assignment HW4: Project ranking](HW4-project-ranking.docx)
+* [Assignment HW5: Bug gargening](HW5-bug-gardening.md)
+* [Assignment HW6: Tech spike preperation](HW6-tech-spikes-prep.md)
 * [Assignment P1: Tech spike completion and presentation](P1-tech-spike-presentation.docx)
+* [Assignment P2: Open-source contributions and checkpoint presentation](P2-checkpoint-presentation.docx)
+* [Assignment P3: Open-source contributions and capstone status presentation](P3-status-presentation.docx)
 * [Assignments TR1-2 and IR1-2: Team and individual 5-15 reports](TR-IR.docx)
-<!-- * [Assignment CP: Checkpoint presentation](CP.docx) -->
-<!-- * [Assignments PP1, PP2, PP3: Poster presentation](PP.docx) -->
-<!-- * [Assignment RBP: Reflective blog post](RBP.docx) -->
-<!-- * [Assignment FP: Final Presentation](FP.docx) -->
+* [Assignment RBP: Reflective blog post](RBP.docx)
 

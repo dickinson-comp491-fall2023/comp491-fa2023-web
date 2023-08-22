@@ -4,8 +4,8 @@
 <!-- [high-resolution version](images/sensem-teaparty-2023.jpg) -->
 
 
-* [Syllabus](syllabus-8-21-2023.docx)
-* [Overview Schedule](schedule-8-21-2023.xlsx)  <!-- &nbsp;&nbsp;&nbsp;<font color="green">UPDATED on 4/10/2023</font> -->
+* [Syllabus](syllabus-8-22-2023.docx)
+* [Overview Schedule](schedule-8-22-2023.xlsx)  <!-- &nbsp;&nbsp;&nbsp;<font color="green">UPDATED on 4/10/2023</font> -->
 <!-- * [Detailed schedule](resources) -->
 * [Graded assignments](hw)
 <!-- * [Readings](readings.md) -->
@@ -20,4 +20,4 @@
 
 
 ----
-Last modified: Mon Aug 21 13:42:09 UTC 2023 by jmac.
+Last modified: Tue Aug 22 19:55:14 UTC 2023 by jmac.

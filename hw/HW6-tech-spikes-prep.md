@@ -4,6 +4,10 @@ This assignment is worth 30 points and is expected to take about three
 hours for each individual student, although some parts can be
 completed in teams. As usual, log activity using your Slack live log.
 
+Students pursuing a research or honors project *do* complete this
+assignment. Please consult with the instructor to determine
+appropriate content for the tech spike in your research project.
+
 ## Introduction
 
 In agile software development a *spike* is a small side-project done
@@ -67,17 +71,17 @@ provided by Forbes magazine.
   identified for that subteam.</font>
 
 
-### Learning Resources
+### Learning Resources and Activites
 
-In this part of the activity you identify *learning resources* to fill
-in the gaps identified above.
+In this part of the activity you identify *learning resources and
+activites* to fill in the gaps identified above.
 
-* <font color="red">Add a new header named "Learning Activities" to
-  your team's Tech Spikes page.</font>
+* <font color="red">Add a new header named "Learning Resources and
+  Activities" to your team's Tech Spikes page.</font>
 * <font color="red">Each tech spike subteam adds their own subsection
-  to the Learning Activities section. Populate the subsection with an
-  annotated list of resources (with links) that will provide the
-  knowledge and experience to fill the gap.</font>
+  to the Learning Resources and Activities section. Populate the
+  subsection with an annotated list of resources (with links) that
+  will provide the knowledge and experience to fill the gap.</font>
 * <font color="red"></font>
 
 Some tips for building this list:
@@ -96,16 +100,6 @@ Some tips for building this list:
      during the tech spike. Therefore, choose at least one learning
      resource that will help you build a demo that is interesting and
      fun.
-
-## What's next?
-
-Start working on assignment P1 as soon as possible. In that
-assignment, you will perform the tech spike itself and demonstrate
-your achievement in a team presentation. Assignment P1 is worth a
-significant fraction of the final grade and the deadline will approach
-rapidly.
-
-
 
 ## Submission
 

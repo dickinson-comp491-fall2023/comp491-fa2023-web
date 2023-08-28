@@ -1,6 +1,5 @@
 # Detailed schedule
 
-under construction
 
 ## Class 1, Tuesday 8/29/2023
 
@@ -9,4 +8,4 @@ under construction
 
 
 ----
-Last modified: Tue Aug 15 11:57:12 UTC 2023 by jmac.
+Last modified: Mon Aug 28 21:18:34 UTC 2023 by jmac.

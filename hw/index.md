@@ -41,8 +41,6 @@ what you are planning to do in the next 30 minutes.
 
 ## Instructions for individual assignments
 
-[under construction]
-
 * [Assignments NQP1-7: Discussion notes, questions, and participation](NQP.docx)
 * [Assignment HW1: Slack, wiki, Git](HW1-slack-wiki-git.docx)
 * [Assignment HW2: Project exploration](HW2-project-exploration.docx)

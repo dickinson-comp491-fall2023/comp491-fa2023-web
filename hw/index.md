@@ -46,7 +46,7 @@ what you are planning to do in the next 30 minutes.
 * [Assignment HW2: Project exploration](HW2-project-exploration.docx)
 * [Assignment HW3: Project reviews](HW3-project-reviews.docx)
 * [Assignment HW4: Project ranking](HW4-project-ranking.docx)
-* [Assignment HW5: Bug gargening](HW5-bug-gardening.md)
+* [Assignment HW5: Bug gardening](HW5-bug-gardening.md)
 * [Assignment HW6: Tech spike preperation](HW6-tech-spikes-prep.md)
 * [Assignment P1: Tech spike completion and presentation](P1-tech-spike-presentation.docx)
 * [Assignment P2: Open-source contributions and checkpoint presentation](P2-checkpoint-presentation.docx)

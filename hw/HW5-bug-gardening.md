@@ -13,6 +13,18 @@ so this should represent about six hours of work on your research
 project.  For details about the 5-15 report, see the separate document
 describing TR and IR assignments.
 
+## Background activity: basic milestones
+
+Carefully study the separate page [Basic milestones for the capstone
+     project](milestones.md). This lists five basic milestones that
+     should be achieved before beginning contributions to your H/FOSS
+     project. You are not required to make progress on these
+     milestones during this bug gardening assignment. However, please
+     build your awareness of these milestones and think of them as a
+     background task. When you are reading documentation and exploring
+     your project, make notes on anything that might help with the
+     basic milestones.
+
 ## Introduction
 
 **Bug gardening** is a name often given to the task of maintaining the issue tracker in a project. This name reflects the fact that without careful attention, issue trackers tend to become disorganized - like an overgrown garden. They will accumulate tickets that are unlabeled, redundant/duplicates, inaccurate, or describe bugs that no longer exist in the current version of the software. Bug gardening thus includes actions such as assigning tags and/or priorities to tickets, confirming the existence of reported bugs, requesting additional information on submitted tickets, adding useful information to existing tickets, eliminating duplicate tickets, connecting potentially related tickets, closing completed or out of date tickets, etc. While some of these activities are done by the maintainers (e.g. prioritizing, deleting or labeling tickets) many others can be done by the community.

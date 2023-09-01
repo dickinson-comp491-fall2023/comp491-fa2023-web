@@ -41,6 +41,8 @@ what you are planning to do in the next 30 minutes.
 
 ## Instructions for individual assignments
 
+Some of the assignments refer to the [Basic milestones for the capstone project](milestones.md) page.
+
 * [Assignments NQP1-7: Discussion notes, questions, and participation](NQP.docx)
 * [Assignment HW1: Slack, wiki, Git](HW1-slack-wiki-git.docx)
 * [Assignment HW2: Project exploration](HW2-project-exploration.docx)

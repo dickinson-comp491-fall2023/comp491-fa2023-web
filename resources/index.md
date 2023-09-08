@@ -1,5 +1,27 @@
 # Detailed schedule
 
+## Class 4, Friday 9/8/2023
+
+* I will present a couple of contrasting open source projects:
+  [Graphviz](https://graphviz.org/) vs [Inkscape](https://inkscape.org/)
+* Any questions about Slack livelog?
+* Most of the class time will be spent on a lab day for individual
+  work on HW2 (Project exploration).
+* Get help with the GitHub section of HW1 if you need it.
+* Yes, I am accepting music suggestions for the lab session. Post on Slack.
+* I will be inviting volunteers to tell us a little bit about their
+  favorite project, including show us the website and/or repositories
+  and point out a few interesting features. Depending on how many
+  eager volunteers there are, we will pause of the lab session at
+  around 3:30 PM or 3:45 PM to hear from anyone who would like to do
+  this. Think of it as your chance to advertise your project and
+  recruit people to your team.
+
+
+## Class 3, Tuesday 9/5/2023
+
+Formal discussion on Ko Ch1 (History) and Ch2 (Organizations).
+
 
 ## Class 2, Friday 9/1/2023
 
@@ -31,4 +53,4 @@
 
 
 ----
-Last modified: Thu Aug 31 21:53:48 UTC 2023 by jmac.
+Last modified: Fri Sep 08 18:17:04 UTC 2023 by jmac.

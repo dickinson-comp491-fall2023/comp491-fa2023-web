@@ -1,5 +1,22 @@
 # Detailed schedule
 
+## Class 6, Friday 9/15/2023
+
+* Informal discussion of the following paper, which is available on
+  Moodle (no advance reading or other preparation is required):
+  - Ko, A. J., Aung, H., and Myers, B. A. (2005, May). Eliciting
+    design requirements for maintenance-oriented ides: a detailed
+    study of corrective and perfective maintenance tasks. In
+    *Proceedings of the 27th International Conference on Software
+    Engineering* (pp. 126-135). [PDF on
+    Moodle](https://lms.dickinson.edu/mod/resource/view.php?id=1217800).
+* Lab day to finish HW1 and start HW4.
+
+## Class 5, Tuesday 9/12/2023
+
+Formal discussion on Ko Ch3 (Communication) and Ch4 (Productivity).
+
+
 ## Class 4, Friday 9/8/2023
 
 * I will present a couple of contrasting open source projects:
@@ -53,4 +70,4 @@ Formal discussion on Ko Ch1 (History) and Ch2 (Organizations).
 
 
 ----
-Last modified: Fri Sep 08 18:17:04 UTC 2023 by jmac.
+Last modified: Fri Sep 15 12:13:39 UTC 2023 by jmac.

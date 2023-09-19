@@ -1,5 +1,20 @@
 # Detailed schedule
 
+## Class 8, Friday 9/22/2023
+
+Iteration 2 of the XP Game.
+
+## Class 7, Tuesday 9/19/2023
+
+Please see the Readings webpage for links to three recommended readings to check out before class.
+
+In class, we will play Iteration 1 of the [XP
+Game](https://www.agilebelgium.be/xpgame/)--an agile development game
+created by two Belgian software engineering experts, Vera Peetersand
+Pascal Van Cauwenberghe. It is not required to read about this game in
+advance. Everything will be fully explained in class.
+
+
 ## Class 6, Friday 9/15/2023
 
 * Informal discussion of the following paper, which is available on
@@ -70,4 +85,4 @@ Formal discussion on Ko Ch1 (History) and Ch2 (Organizations).
 
 
 ----
-Last modified: Fri Sep 15 12:13:39 UTC 2023 by jmac.
+Last modified: Tue Sep 19 15:37:11 UTC 2023 by jmac.

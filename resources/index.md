@@ -1,5 +1,14 @@
 # Detailed schedule
 
+## Class 9, Tuesday 9/26/2023
+
+* The project rankings submitted in HW4 are available on the separate
+  [project rankings page](project-rankings.md). Please examine this
+  and advise me of any errors or omissions.
+* Formal discussion on Ko Ch5 (Quality) and Ch6 (Requirements).
+
+
+
 ## Class 8, Friday 9/22/2023
 
 Iteration 2 of the XP Game.
@@ -85,4 +94,4 @@ Formal discussion on Ko Ch1 (History) and Ch2 (Organizations).
 
 
 ----
-Last modified: Tue Sep 19 15:37:11 UTC 2023 by jmac.
+Last modified: Sun Sep 24 15:09:02 UTC 2023 by jmac.

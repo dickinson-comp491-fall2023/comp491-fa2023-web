@@ -15,15 +15,7 @@ describing TR and IR assignments.
 
 ## Background activity: basic milestones
 
-Carefully study the separate page [Basic milestones for the capstone
-     project](milestones.md). This lists five basic milestones that
-     should be achieved before beginning contributions to your H/FOSS
-     project. You are not required to make progress on these
-     milestones during this bug gardening assignment. However, please
-     build your awareness of these milestones and think of them as a
-     background task. When you are reading documentation and exploring
-     your project, make notes on anything that might help with the
-     basic milestones.
+Carefully study the separate page [Basic milestones for the capstone project](milestones.md). This lists five basic milestones that should be achieved before beginning contributions to your H/FOSS project. You are not required to make progress on these milestones during this bug gardening assignment. However, please build your awareness of these milestones and think of them as a background task. When you are reading documentation and exploring your project, make notes on anything that might help with the basic milestones.
 
 ## Introduction
 

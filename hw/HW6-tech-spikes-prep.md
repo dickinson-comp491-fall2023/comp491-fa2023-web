@@ -66,8 +66,7 @@ provided by Forbes magazine.
    - Not every team member must develop knowledge and skills in every
      area. It is acceptable to develop specializations within your
      team.
-   - Carefully study the separate page [Basic milestones for the
-     capstone project](milestones.md). This lists five basic
+   - Carefully study the separate page [Basic milestones for the capstone project](milestones.html). This lists five basic
      milestones that should be achieved before beginning contributions
      to your H/FOSS project. It may be helpful for one or more of your
      tech spike subteams to focus on one of these milestones. For

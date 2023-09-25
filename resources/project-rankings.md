@@ -9,7 +9,7 @@ Here are the rankings submitted in HW4. Please advise me of any errors or omissi
 |Belgin| Sugarlabs| Mermaid| FreeCodeCamp| WikimediaCommonsApp| AnkiDroid|
 |Christian| HuggingFace| Mermaid| PyTorch| NextCloud| ApacheKafka|
 |Dung| GNUOctave| ApacheKafka| SpringBoot| OpenMRS| PyTorch|
-|Ethan| | | | | |
+|Ethan| Sugarlabs | Metasploit | HomeBrew | PrivacyGuides | SpringBoot |
 |Evan| HuggingFace| Metasploit| Sugarlabs| OpenEnergyDashboard| SpringBoot|
 |Giang| | | | | |
 |Marcel| SpringBoot| ApacheKafka| HuggingFace| TensorFlow| PyTorch|
@@ -27,7 +27,7 @@ Here are a few preliminary ideas of how to analyze this. Nothing is
 fixed yet. Feel free to discuss with me.
 
 There's an obvious cluster of students selecting Sugarlabs as their first choice. That defines
-* **Team 1**: Belgin, Mel, Myra, Sai, Sophia.
+* **Team 1**: Belgin, Ethan, Mel, Myra, Sai, Sophia.
 
 Souha chose Sugarlabs as 2nd choice and could also go into Team 1.
 
@@ -46,7 +46,6 @@ If we eliminate the students definitely assigned to Team 1 and Team 2, we are le
 |Aaron| | | | | |
 |Andrew| | | | | |
 |Dung| GNUOctave| ApacheKafka| SpringBoot| OpenMRS| PyTorch|
-|Ethan| | | | | |
 |Giang| | | | | |
 |Marcel| SpringBoot| ApacheKafka| HuggingFace| TensorFlow| PyTorch|
 |Michael| Mermaid| FreeCodeCamp| OpenMRS| HuggingFace| PrivacyGuides|
@@ -62,7 +61,7 @@ That leaves Michael and Souha to be either added to a new team (maybe
 working on Mermaid?) or joined onto one of the existing teams,
 whichever they prefer.
 
-Finally, there are four students who have not yet submitted the assignment
+Finally, there are three students who have not yet submitted the assignment
 and we cannot speculate about how they will fit in yet.
 
 There is another thing that I'm curious about. I'm not sure whether to
@@ -78,4 +77,4 @@ this issue. Thanks!
 
 
 ----
-Last modified: Sun Sep 24 19:16:09 UTC 2023 by jmac.
+Last modified: Mon Sep 25 21:44:32 UTC 2023 by jmac.

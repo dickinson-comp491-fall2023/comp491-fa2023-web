@@ -5,7 +5,7 @@ Here are the rankings submitted in HW4. Please advise me of any errors or omissi
 |   | 1 | 2 | 3 | 4 | 5 | 
 |---|---|---|---|---|---|
 |Aaron|HuggingFace | FreeCodeCamp | Sugarlabs | HomeBrew | OWASPNettacker|
-|Andrew| | | | | |
+|Andrew|Mermaid|ImagesToPDF|TimetoLeave|Jupyter|PyTorch |
 |Belgin| Sugarlabs| Mermaid| FreeCodeCamp| WikimediaCommonsApp| AnkiDroid|
 |Christian| HuggingFace| Mermaid| PyTorch| NextCloud| ApacheKafka|
 |Dung| GNUOctave| ApacheKafka| SpringBoot| OpenMRS| PyTorch|
@@ -23,8 +23,15 @@ Here are the rankings submitted in HW4. Please advise me of any errors or omissi
 |Tap| ApacheKafka| PyTorch| Metasploit| NextCloud| OpenBSD|
 
 
-Here are a few preliminary ideas of how to analyze this. Nothing is
-fixed yet. Feel free to discuss with me.
+Below are a few preliminary ideas of how to analyze this. Nothing is
+fixed yet. Feel free to discuss with me. **If you would like to
+express a preference for changing the preliminary plan below, please
+discuss it with me by 5pm on Wednesday, September 27.** Preferably,
+this discussion would take place in person, but you can also do it by
+email or phone. Note that I may consider allowing one or more students
+to work in a solo team (i.e. on their own), if they can make a
+legitimate case in favor of that.
+
 
 There's an obvious cluster of students selecting Sugarlabs as their first choice. That defines
 * **Team 1**: Belgin, Ethan, Mel, Myra, Sai, Sophia.
@@ -43,7 +50,7 @@ If we eliminate the students definitely assigned to Team 1 and Team 2, we are le
 
 |   | 1 | 2 | 3 | 4 | 5 | 
 |---|---|---|---|---|---|
-|Andrew| | | | | |
+|Andrew|Mermaid|ImagesToPDF|TimetoLeave|Jupyter|PyTorch |
 |Dung| GNUOctave| ApacheKafka| SpringBoot| OpenMRS| PyTorch|
 |Giang| OpenBSD | LLVM | Tor | Metasploit|
 |Marcel| SpringBoot| ApacheKafka| HuggingFace| TensorFlow| PyTorch|
@@ -56,14 +63,18 @@ This leads me to tentatively group into a team the students selecting
 Apache Kafka as first or second choice:
 * **Team 3**: Dung, Marcel, Tap
 
-That leaves Andrew, Giang, Michael, and Souha to be either added to a
-new team (maybe working on Mermaid?) or joined onto one of the
-existing teams, whichever they prefer.
+We also have two students selecting Mermaid as their first choice, which could result in
+* **Team 4**: Andrew, Michael
 
-I may also consider allowing one or more students to work in a solo
-team (i.e. on their own), if they can make a legitimate case in favor
-of that. Anyone interested in doing so, please discuss it with me by
-5pm on Wednesday, September 26.
+Souha rated Mermaid third and could also join Team 4 (or Team 1 as mentioned earlier).
+
+That leaves Giang to be either added to a new (solo) team or joined
+onto one of the existing teams.
+
+With the teams as described above, almost everyone who specified
+preferred teammates has got one or more of their choices on their
+team, but I acknowledge that this constraint was not satisfied for
+everyone.
 
 There is another thing that I'm curious about. I'm not sure whether to
 take this into account or not. The teams above were determined purely
@@ -78,4 +89,4 @@ this issue. Thanks!
 
 
 ----
-Last modified: Mon Sep 25 22:13:34 UTC 2023 by jmac.
+Last modified: Tue Sep 26 14:11:21 UTC 2023 by jmac.

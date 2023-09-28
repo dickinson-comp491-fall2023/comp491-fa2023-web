@@ -1,5 +1,9 @@
 # Detailed schedule
 
+
+
+
+
 ## Class 11, Tuesday 10/3/2023
 
 Informal discussion of monopolistic practices and antitrust cases in
@@ -8,7 +12,10 @@ the technology industry. No preparation is required.
 
 ## Class 10, Friday 9/29/2023
 
-Lab day: Please hold team meetings, make a start on HW5, and/or progress [capstone milestones](../hw/milestones.html).
+Lab day: 
+* [Proposed teams](project-teams.md)
+* Today please hold team meetings, make a start on HW5, and/or make
+  progress on [capstone milestones](../hw/milestones.html).
 
 ## Class 9, Tuesday 9/26/2023
 
@@ -104,4 +111,4 @@ Formal discussion on Ko Ch1 (History) and Ch2 (Organizations).
 
 
 ----
-Last modified: Wed Sep 27 15:56:10 UTC 2023 by jmac.
+Last modified: Thu Sep 28 13:22:40 UTC 2023 by jmac.

@@ -16,6 +16,8 @@ Lab day:
 * [Proposed teams](project-teams.md)
 * Today please hold team meetings, make a start on HW5, and/or make
   progress on [capstone milestones](../hw/milestones.html).
+* Happy Mid-Autumn Festival/Chuseok/Tết Trung Thu/Tsukimi!!
+
 
 ## Class 9, Tuesday 9/26/2023
 
@@ -111,4 +113,4 @@ Formal discussion on Ko Ch1 (History) and Ch2 (Organizations).
 
 
 ----
-Last modified: Thu Sep 28 13:22:40 UTC 2023 by jmac.
+Last modified: Fri Sep 29 18:45:18 UTC 2023 by jmac.

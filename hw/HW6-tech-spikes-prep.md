@@ -1,4 +1,4 @@
-# COMP491 Assignment HW5: Tech Spikes Preparation
+# COMP491 Assignment HW6: Tech Spikes Preparation
 
 This assignment is worth 30 points and is expected to take about three
 hours for each individual student, although some parts can be

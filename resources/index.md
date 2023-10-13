@@ -1,7 +1,27 @@
 # Detailed schedule
 
 
+## Class 14, Friday 10/6/2023
 
+Lab day:
+* Continue work on tech spikes
+
+Here is a real-time update on our discussion of tech industry antitrust cases -- today in the New York Times:
+* [Microsoft Closes $69 Billion Activision Deal, Overcoming Regulators' Objections](https://www.nytimes.com/2023/10/13/technology/microsoft-activision-blizzard-deal-closes.html)
+
+
+## Class 13, Tuesday 10/10/2023
+
+* Formal discussion on Ko Ch7 (Architecture) and Ch8 (Specifications).
+
+
+
+## Class 12, Friday 10/6/2023
+
+Lab day:
+* Discuss potential tech spikes with other team members and the
+  instructor
+* Form tech spike subteams
 
 
 ## Class 11, Tuesday 10/3/2023
@@ -16,7 +36,7 @@ Lab day:
 * [Proposed teams](project-teams.md)
 * Today please hold team meetings, make a start on HW5, and/or make
   progress on [capstone milestones](../hw/milestones.html).
-* Happy Mid-Autumn Festival/Chuseok/Tết Trung Thu/Tsukimi!!
+* Happy Mid-Autumn Festival/Chuseok/Táº¿t Trung Thu/Tsukimi!!
 
 
 ## Class 9, Tuesday 9/26/2023
@@ -113,4 +133,4 @@ Formal discussion on Ko Ch1 (History) and Ch2 (Organizations).
 
 
 ----
-Last modified: Fri Sep 29 18:45:18 UTC 2023 by jmac.
+Last modified: Fri Oct 13 15:23:35 UTC 2023 by jmac.

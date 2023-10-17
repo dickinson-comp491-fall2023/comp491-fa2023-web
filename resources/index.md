@@ -1,5 +1,20 @@
 # Detailed schedule
 
+<!-- ## Class 16, Friday 10/6/2023 -->
+
+<!-- * Please complete the anonymous [mid-semester survey](https://forms.office.com/Pages/ResponsePage.aspx?id=VbAyYrl2E0ybiLVirn22-2zFL4dI9oNMmoALudp-AK9UOUFPV01LRkE2MzU3VkRJTlg0TVozSTc1Qy4u). -->
+<!-- * Lab day: continue work on tech spikes -->
+
+
+
+
+
+## Class 15, Tuesday 10/20/2023
+
+Informal discussion on software licenses. No preparation required.
+
+
+
 
 ## Class 14, Friday 10/6/2023
 
@@ -133,4 +148,4 @@ Formal discussion on Ko Ch1 (History) and Ch2 (Organizations).
 
 
 ----
-Last modified: Fri Oct 13 15:23:35 UTC 2023 by jmac.
+Last modified: Tue Oct 17 13:54:21 UTC 2023 by jmac.

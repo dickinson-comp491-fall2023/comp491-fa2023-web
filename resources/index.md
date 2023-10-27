@@ -4,6 +4,20 @@
 
 Test-driven development (TDD)) lab: instructions are on the separate [TDD lab](class18/tdd-lab.md) page.
 
+I recommend working in pairs, but if you prefer to work alone please tell the instructor and we will adapt. 
+Here are the randomly-generated teams:
+* Dzung, Christian
+* Evan, Tap
+* Dung, Aaron
+* Myra, Ethan
+* Belgin, Andrew
+* Sophia, Giang
+* Souha, Hailie
+* William, Tanner
+* Sai, Michael
+* Melantha, Marcel
+
+
 
 ## Class 17, Friday 10/27/2023
 

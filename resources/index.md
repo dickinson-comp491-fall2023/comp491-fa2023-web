@@ -1,6 +1,6 @@
 # Detailed schedule
 
-## Class 17, Friday 10/20/2023
+## Class 17, Friday 10/27/2023
 
 * Lab day: continue work on tech spikes
 * Presentation dates and order for tech spike presentations (assignment P1):
@@ -15,7 +15,7 @@
     3. Apache Kafka
     4. Mermaid
 
-## Class 16, Tuesday 10/10/2023
+## Class 16, Tuesday 10/24/2023
 
 * Formal discussion on Ko Ch9 (Process) and Ch10 (Comprehension).
 

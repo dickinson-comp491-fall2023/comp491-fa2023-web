@@ -1,5 +1,10 @@
 # Detailed schedule
 
+## Class 18 
+
+Test-driven development (TDD)) lab: instructions are on the separate [TDD lab](class18/tdd-lab.md) page.
+
+
 ## Class 17, Friday 10/27/2023
 
 * Lab day: continue work on tech spikes

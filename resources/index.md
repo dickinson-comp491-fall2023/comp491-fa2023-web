@@ -1,9 +1,23 @@
 # Detailed schedule
 
-<!-- ## Class 16, Tuesday 10/6/2023 -->
+## Class 17, Friday 10/20/2023
 
-<!-- * Lab day: continue work on tech spikes -->
+* Lab day: continue work on tech spikes
+* Presentation dates and order for tech spike presentations (assignment P1):
+  - Friday Nov 3:
+    1. OpenBSD
+    2. Huggingface
+    3. SugarLabs
+    4. William
+  - Tuesday Nov 7:
+    1. Dzung
+    2. Hailie
+    3. Apache Kafka
+    4. Mermaid
 
+## Class 16, Tuesday 10/10/2023
+
+* Formal discussion on Ko Ch9 (Process) and Ch10 (Comprehension).
 
 
 

@@ -1,5 +1,51 @@
 # Detailed schedule
 
+
+## Class 26 (Fri Dec 1)
+
+Checkpoint presentations via Zoom at [https://zoom.us/my/johnmaccormick](https://zoom.us/my/johnmaccormick):
+
+1. 3:00pm. William
+2. 3:15pm. SugarLabs
+3. 3:35pm. Huggingface
+4. 3:55pm. OpenBSD
+
+## Class 25 (Tue Nov 28)
+
+Checkpoint presentations via Zoom at [https://zoom.us/my/johnmaccormick](https://zoom.us/my/johnmaccormick):
+
+1. 3:00pm. Mermaid
+2. 3:20pm. Apache Kafka
+3. 3:35pm. Hailie
+4. 3:50pm. Dzung
+
+
+## Class 24 (Nov 21)
+
+* Lab day: continue work on P2
+
+
+## Class 23 (Nov 17)
+
+* Lab day: continue work on P2
+
+ 
+
+## Class 22
+
+Discussion of Ko Ch11&12 cancelled -- post discussion questions to Moodle as usual.
+
+
+## Class 21
+
+* Lab day: continue work on P2
+
+
+## Classes 19 and 20
+
+tech spike presentations
+
+
 ## Class 18 
 
 Test-driven development (TDD) lab: instructions are on the separate [TDD lab](class18/tdd-lab.md) page.
@@ -181,4 +227,4 @@ Formal discussion on Ko Ch1 (History) and Ch2 (Organizations).
 
 
 ----
-Last modified: Fri Oct 20 15:22:37 UTC 2023 by jmac.
+Last modified: Tue Nov 21 19:41:23 UTC 2023 by jmac.

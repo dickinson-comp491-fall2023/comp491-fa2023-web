@@ -5,7 +5,7 @@
 
 
 * [Syllabus](syllabus-8-22-2023.docx)
-* [Overview Schedule](comp491-schedule-10-16-2023.xlsx)  &nbsp;&nbsp;&nbsp;<font color="green">UPDATED on 10/16/2023</font>
+* [Overview Schedule](comp491-schedule-11-21-2023.xlsx)  &nbsp;&nbsp;&nbsp;<font color="green">UPDATED on 11/21/2023</font>
 * [Detailed schedule and resources](resources)
 * [Graded assignments](hw)
 <!-- * [Readings](readings.md) -->
@@ -21,4 +21,4 @@
 
 
 ----
-Last modified: Tue Oct 17 12:59:51 UTC 2023 by jmac.
+Last modified: Tue Nov 21 19:45:19 UTC 2023 by jmac.

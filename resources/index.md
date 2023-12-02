@@ -1,5 +1,17 @@
 # Detailed schedule
 
+## Class 28 (Fri Dec 8)
+
+Remote lab day: continue work on P2
+
+
+
+## Class 27 (Tue Dec 5)
+
+
+* complete [course feedback form](https://dickinson.campuslabs.com/eval-home/)
+* Discussion of Ko Ch13 and 14 via Zoom at [https://zoom.us/my/johnmaccormick](https://zoom.us/my/johnmaccormick)
+
 
 ## Class 26 (Fri Dec 1)
 
@@ -227,4 +239,4 @@ Formal discussion on Ko Ch1 (History) and Ch2 (Organizations).
 
 
 ----
-Last modified: Tue Nov 21 19:41:23 UTC 2023 by jmac.
+Last modified: Sat Dec 02 02:09:41 UTC 2023 by jmac.

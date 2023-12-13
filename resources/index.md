@@ -1,5 +1,19 @@
 # Detailed schedule
 
+## Final presentations (Sat Dec 16)
+
+Starting at 9:00am Via Zoom at [https://zoom.us/my/johnmaccormick](https://zoom.us/my/johnmaccormick):
+
+1. Apache Kafka
+2. SugarLabs
+3. OpenBSD
+4. Break -- 15 minutes
+5. Huggingface
+6. Mermaid
+
+(Students pursuing research projects are completing an alternative assignment and will not be presenting.)
+
+
 ## Class 28 (Fri Dec 8)
 
 Remote lab day: continue work on P2
@@ -239,4 +253,4 @@ Formal discussion on Ko Ch1 (History) and Ch2 (Organizations).
 
 
 ----
-Last modified: Sat Dec 02 02:09:41 UTC 2023 by jmac.
+Last modified: Wed Dec 13 17:17:56 UTC 2023 by jmac.
